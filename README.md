@@ -21,7 +21,7 @@
 [swap.c](https://github.com/nandhini532/CSEN1011/blob/6806fa55a0a2b8dec625bd0bd3c04dc77ecf2552/swap.c)<br/>
 
 # CSEN1011 MODULE 2 PROGRAMS
-[perfectnumber.c](\https://github.com/nandhini532/CSEN1011/blob/6806fa55a0a2b8dec625bd0bd3c04dc77ecf2552/perfectnumber.c)<br/>
+[perfectnumber.c](https://github.com/nandhini532/CSEN1011/blob/852f012b94c0d4efbf4e0ba4aa6dae2ec282716f/perfectnumber.c)<br/>
 [fibnocci.c](https://github.com/nandhini532/CSEN1011/blob/6806fa55a0a2b8dec625bd0bd3c04dc77ecf2552/fibnocci.c)<br/>
 [armstrong.c](https://github.com/nandhini532/CSEN1011/blob/6806fa55a0a2b8dec625bd0bd3c04dc77ecf2552/armstrong.c)<br/>
 [reverse.c](https://github.com/nandhini532/CSEN1011/blob/6806fa55a0a2b8dec625bd0bd3c04dc77ecf2552/reverse.c)<br/>
