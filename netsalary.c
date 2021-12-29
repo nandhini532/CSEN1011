@@ -26,3 +26,11 @@ int main()
 	
 	return 0;
 } 
+*/
+output	
+Enter Basic Salary ($): 600
+Enter HRA ($): 50
+Enter TA ($): 25
+Enter others ($): 500
+Net Salary is: $ 1073.00
+/*
