@@ -1,11 +1,11 @@
 # RAPTOR FILES
 
-[add.raptor](add.craptor)<br/>
-[circle.raptor](circle.craptor)<br/>
-[distance.raptor](distance.raptor)<br/>
-[evenorodd.raptor](evenorodd.raptor)<br/>
-[primeorcomposite.raptor](primeorcomposite.raptor)<br/>
-[simpleintrestcompoundintrest.raptor](simpleintrestcompoundintrest.raptor)<br/>
+[add.raptor]()<br/>
+[circle.raptor]()<br/>
+[distance.raptor]()<br/>
+[even-or-odd.raptor]()<br/>
+[prime-or-composite.raptor]()<br/>
+[simple-intrest-compound-intrest.raptor]()<br/>
 
 
 # CSEN1011 MODULE 1 PROGRAMS
