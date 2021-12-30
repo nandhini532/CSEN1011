@@ -35,3 +35,11 @@
 [swappingcallbyvalue.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/swappingcallbyvalue.c)<br/>
 [swappingcallbyreference.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/swappingcallbyreference.c)<br/>
 [perfectnotperfect.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/perfectnotperfect.c)<br/>
+
+
+
+# CSEN1011 SUMMATIVE ASSESMENT PROGRAMS
+[fibnocciseries.c](https://github.com/nandhini532/CSEN1011/blob/c1fa6981e4796faff641213afce2ed3ac7f83317/fibonaciiseries.c)<br/>
+[simplecalculator.c](https://github.com/nandhini532/CSEN1011/blob/c1fa6981e4796faff641213afce2ed3ac7f83317/simplecalculator.c)<br/>
+[ascii.c](https://github.com/nandhini532/CSEN1011/blob/c1fa6981e4796faff641213afce2ed3ac7f83317/ascii.c)<br/>
+[limits.c](https://github.com/nandhini532/CSEN1011/blob/c1fa6981e4796faff641213afce2ed3ac7f83317/limits.c)<br/>
