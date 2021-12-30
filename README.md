@@ -41,3 +41,5 @@
 # CSEN1011 SUMMATIVE ASSESMENT PROGRAMS
 [fibnocciseries.c](https://github.com/nandhini532/CSEN1011/blob/c1fa6981e4796faff641213afce2ed3ac7f83317/fibonaciiseries.c)<br/>
 [simplecalculator.c](https://github.com/nandhini532/CSEN1011/blob/c1fa6981e4796faff641213afce2ed3ac7f83317/simplecalculator.c)<br/>
+[factorial.c](https://github.com/nandhini532/CSEN1011/blob/a2bae14e6d2ea59141a5c9d8f1a215be73b13b4c/factorial.c)<br/>
+[upper-case-lower-case.c](https://github.com/nandhini532/CSEN1011/blob/a2bae14e6d2ea59141a5c9d8f1a215be73b13b4c/uppercaselowercase.c)<br/>
