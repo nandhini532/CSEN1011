@@ -55,5 +55,4 @@
 [Changing case.rap](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/Changing%20case.rap)<br/>
 
 
-[sumfactorial.rap](
-[upper-case-lower-case.c](https://github.com/nandhini532/CSEN1011/blob/a2bae14e6d2ea59141a5c9d8f1a215be73b13b4c/uppercaselowercase.c)<br/>
+
