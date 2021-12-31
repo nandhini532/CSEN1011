@@ -39,7 +39,21 @@
 
 
 # CSEN1011 SUMMATIVE ASSESMENT PROGRAMS
+
 [fibnocciseries.c](https://github.com/nandhini532/CSEN1011/blob/c1fa6981e4796faff641213afce2ed3ac7f83317/fibonaciiseries.c)<br/>
+[fibonacci.rap](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/Fibonacci.rap)<br/>
+[fibonaccisum.c](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/fibonaccisum.c)<br/>
+[sumfibonacci.rap](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/Sum%20Fibonacci.rap)<br/>
 [simplecalculator.c](https://github.com/nandhini532/CSEN1011/blob/c1fa6981e4796faff641213afce2ed3ac7f83317/simplecalculator.c)<br/>
-[factorial.c](https://github.com/nandhini532/CSEN1011/blob/a2bae14e6d2ea59141a5c9d8f1a215be73b13b4c/factorial.c)<br/>
+[calculator.rap](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/Calculator.rap)<br/>
+[factorial.c](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/factorial.c)<br/>
+[factorial.rap](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/Factorial.rap)<br/>
+[sumfactorial.rap](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/Sum%20factorial.rap)<br/>
+[collatzsequence.c](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/collatzsequence.c)<br/>
+[Collazt.rap](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/Collazt.rap)<br/>
+[uppercaselowercase.c](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/uppercaselowercase.c)<br/>
+[Changing case.rap](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/Changing%20case.rap)<br/>
+
+
+[sumfactorial.rap](
 [upper-case-lower-case.c](https://github.com/nandhini532/CSEN1011/blob/a2bae14e6d2ea59141a5c9d8f1a215be73b13b4c/uppercaselowercase.c)<br/>
