@@ -35,6 +35,13 @@
 [swappingcallbyvalue.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/swappingcallbyvalue.c)<br/>
 [swappingcallbyreference.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/swappingcallbyreference.c)<br/>
 [perfectnotperfect.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/perfectnotperfect.c)<br/>
+[series-sum.c]()<br/>
+[prime-amstrong-perfect-functions.c()<br/>
+[call-by-value-reference.c]()<br/>
+[gcd-lcm-recursive.c]()<br/>
+[storage-classes.c]()<br/>
+[dynamic-memory-allocation.c]()<br/>
+
 
 # RECURSION
 [sumrecur.c](https://github.com/nandhini532/CSEN1011/blob/e7be34b951a0a0d1211c9079446c5113360c8c50/sumrecur.c)<br/>
@@ -100,5 +107,9 @@
 [duplicate-element.c](https://github.com/nandhini532/CSEN1011/blob/2b262477b35468bcf8336b58b6a55647336fcc35/duplicate-element.c)<br/>
 [binary-to-decimal.c](https://github.com/nandhini532/CSEN1011/blob/24f9b030772753bfa7b94988f6ee4b0c090346ae/binary-to-decimal.c)<br/>
 
-
+# CSEN1011 SUMMATIVE ASSEMENT PROGRAMS -03
+[password-string.c](https://github.com/nandhini532/CSEN1011/blob/eed7bb92e2db460b025203a490fb0ea7d94e0ce2/password-string.c)<br/>
+[access number- author name](https://github.com/nandhini532/CSEN1011/blob/39a21a9df9af5aa199f0b3b43de46f9932f7d37c/access%20number%20and%20author%20name.c)<br/>
+[remove char.c](https://github.com/nandhini532/CSEN1011/blob/5b05aaaf349041b48e3de650080c3457f116e07e/remove%20character.c)<br/>
+[persons-feet&inch](https://github.com/nandhini532/CSEN1011/blob/05d025d940329832835094ca43d462b72fcaf246/persons%20feet%20&%20inch%20.c)<br/>
 
