@@ -17,4 +17,4 @@ int main(void) {
   fclose(fptr);
   return 0;
 }
-© 2022 GitHub, Inc.
+
