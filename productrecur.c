@@ -17,4 +17,4 @@ int main(){
   printf("product=%d",result);
   return 0;
 }
-© 2022 GitHub, Inc.
+
