@@ -36,7 +36,7 @@
 [swappingcallbyreference.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/swappingcallbyreference.c)<br/>
 [perfectnotperfect.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/perfectnotperfect.c)<br/>
 [series-sum.c]()<br/>
-[prime-amstrong-perfect-functions.c()<br/>
+[prime-amstrong-perfect-functions.c]()<br/>
 [call-by-value-reference.c]()<br/>
 [gcd-lcm-recursive.c]()<br/>
 [storage-classes.c]()<br/>
