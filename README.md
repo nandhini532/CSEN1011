@@ -47,8 +47,30 @@
 
 
 # CSEN1011 MODULE 4 PROGRAMS
-[array.c]
-[maxminelement.c]
+[linear-search.c]()<br/>
+[min-max-element.c]()<br/>
+[bubble-sort.c]()<br/>
+[binary-search.c]()<br/>
+[multi-dimensional-arrays.c]()<br/>
+[matrix-multiplication.c]()<br/>
+[dynamic-memory-allocation.c]()<br/>
+[transpose_matrix.c]()<br/>
+[arrays-pointers.c]()<br/>
+[array-passing-function.c]()<br/>
+[vowels-consonants-count.c]()<br/>
+[reverse-string.c]()<br/>
+[string-sort.c]()<br/>
+[unformatted-io-functions.c]()<br/>
+[string-handling.c]()<br/>
+
+
+# CSEN1011 MODULE 5 PROGRAMS
+[structures.c](https://github.com/nandhini532/CSEN1011/blob/a40d066a9b0c95c82221e3bef339a01acef09633/structure.c)<br/>
+[complex-numbers.c](https://github.com/nandhini532/CSEN1011/blob/e7adfdcc95a81b131c69ddf11c49cace09fe7fac/complex-numbers.c)<br/>
+[nested-structure.c](https://github.com/nandhini532/CSEN1011/blob/27e4a49dfc88663d6db055045f4511b69a8b63eb/nested-structure.c)<br/>
+[files-programs.c](https://github.com/nandhini532/CSEN1011/blob/2c2d34407a8a5abc95be4ede7f5a4a8a19353044/files-programs.c)<br/>
+[union.c](https://github.com/nandhini532/CSEN1011/blob/10af0997c2eab1aaa61d8ed38c8e78a552f718c6/union.c)<br/>
+[files-words-chars.c](https://github.com/nandhini532/CSEN1011/blob/3b262557d5195bcdddf4bec1e898bcf63bd839ae/files-words-chars.c)<br/>
 
 
 
