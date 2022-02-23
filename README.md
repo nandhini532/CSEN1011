@@ -36,9 +36,26 @@
 [swappingcallbyreference.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/swappingcallbyreference.c)<br/>
 [perfectnotperfect.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/perfectnotperfect.c)<br/>
 
+# RECURSION
+[sumrecur.c](https://github.com/nandhini532/CSEN1011/blob/e7be34b951a0a0d1211c9079446c5113360c8c50/sumrecur.c)<br/>
+[gcdrecur.c](https://github.com/nandhini532/CSEN1011/blob/e7be34b951a0a0d1211c9079446c5113360c8c50/gcdrecur.c)<br/>
+[factorialrecur.c](https://github.com/nandhini532/CSEN1011/blob/e7be34b951a0a0d1211c9079446c5113360c8c50/factorialrecur.c)<br/>
+[fibonaccirecur.c](https://github.com/nandhini532/CSEN1011/blob/e7be34b951a0a0d1211c9079446c5113360c8c50/fibonaccirecur.c)<br/>
+[lcmrecur.c](https://github.com/nandhini532/CSEN1011/blob/e7be34b951a0a0d1211c9079446c5113360c8c50/lcmrecur.c)<br/>
+[powerecur.c](https://github.com/nandhini532/CSEN1011/blob/e7be34b951a0a0d1211c9079446c5113360c8c50/powerecur.c)<br/>
+[productrecur.c](https://github.com/nandhini532/CSEN1011/blob/e7be34b951a0a0d1211c9079446c5113360c8c50/productrecur.c)<br/>
 
 
-# CSEN1011 SUMMATIVE ASSESMENT PROGRAMS
+# CSEN1011 MODULE 4 PROGRAMS
+[array.c]
+[maxminelement.c]
+
+
+
+
+
+
+# CSEN1011 SUMMATIVE ASSESMENT PROGRAMS -01
 
 [fibnocciseries.c](https://github.com/nandhini532/CSEN1011/blob/c1fa6981e4796faff641213afce2ed3ac7f83317/fibonaciiseries.c)<br/>
 [fibonacci.rap](https://github.com/nandhini532/CSEN1011/blob/79cc1b9c67836be3db8eb70ede717ee908e9a6a9/fibonacci.rap)<br/>
@@ -53,6 +70,13 @@
 [Collazt sequence.rap](https://github.com/nandhini532/CSEN1011/blob/79cc1b9c67836be3db8eb70ede717ee908e9a6a9/collatz%20sequence.rap)<br/>
 [uppercaselowercase.c](https://github.com/nandhini532/CSEN1011/blob/281c37c98f14e5d8df7ba852579f0af6e22437e9/uppercaselowercase.c)<br/>
 [Casechange.rap](https://github.com/nandhini532/CSEN1011/blob/79cc1b9c67836be3db8eb70ede717ee908e9a6a9/casechange.rap)<br/>
+
+
+# CSEN1011 SUMMATIVE ASSESMENT PROGRAMS -02
+[celing-number.c](https://github.com/nandhini532/CSEN1011/blob/1aaeda8113e9179a27a056ab7dff601f67528d12/celing-number.c)<br/>
+[stocks-profit.c](https://github.com/nandhini532/CSEN1011/blob/539ada550d2ec0f7e2a2c46b13f38c2b61e9c88d/stocks-profit.c)<br/>
+[duplicate-element.c](https://github.com/nandhini532/CSEN1011/blob/2b262477b35468bcf8336b58b6a55647336fcc35/duplicate-element.c)<br/>
+[binary-to-decimal.c](https://github.com/nandhini532/CSEN1011/blob/24f9b030772753bfa7b94988f6ee4b0c090346ae/binary-to-decimal.c)<br/>
 
 
 
