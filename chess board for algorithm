@@ -1,0 +1,11 @@
+ALGORITHM FOR CHESSBOARD WHEN GIVEN TWO POSITIONS AS INPUT, RETURN TRUE IF THEY HAVE SAME COLOUR ELSE FALSE
+
+Step-1:Begin
+Step-2:Enter the first row "r1"
+Step-3:Enter the second row "r2"
+Step-4:Enter the first column "c1"
+Step-5:Enter the second column "c2"
+Step-6:Now take sum of first and second rows and columns (sum=r1+r2+c1+c2)
+Step-7:sum%2==0
+Step-8:If sum%2==0 then print True else print False
+Step-9:End
