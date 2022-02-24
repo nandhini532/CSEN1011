@@ -100,3 +100,7 @@
 [remove char.c](https://github.com/nandhini532/CSEN1011/blob/5b05aaaf349041b48e3de650080c3457f116e07e/remove%20character.c)<br/>
 [persons-feet&inch](https://github.com/nandhini532/CSEN1011/blob/05d025d940329832835094ca43d462b72fcaf246/persons%20feet%20&%20inch%20.c)<br/>
 
+
+# FINAL SEMISTER
+[raptor for chess]https://github.com/nandhini532/CSEN1011/blob/1b60a46e873d220aa88164d3b644a08693bb0496/raptor%20for%20chess%20board.rap)<br/>
+[algorithm for chess board](https://github.com/nandhini532/CSEN1011/blob/503b8a6a73f2239cc1357887b8f117d1abbf6fc1/chess%20board%20for%20algorithm)<br/>
