@@ -1,0 +1,8 @@
+Step-1:Start
+Step-2:Enter the number of boys,b
+Step-3:Enter the number of girls,g
+Step-4:Total number of friends,t=b+g
+Step-5:for(i=1;i<=b;i++), boys strength is equal to(bs=bs*i)
+Step-6:for(i=1;i<=g;i++), girls strength is equal to(gs=gs*i)
+Step-7:for(i=1;i<=t;i++), total number of friends is (ts=ts*i)
+Step-8:
