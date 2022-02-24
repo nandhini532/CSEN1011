@@ -23,5 +23,4 @@ Enter how many characters in the string: 7
 Enter the string (of size 7) : aravind
 The string taken is aravind
 The reverse string taken is dnivara  */
-© 2022 GitHub, Inc.
-Terms
+
