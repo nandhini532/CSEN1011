@@ -35,11 +35,9 @@
 [swappingcallbyvalue.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/swappingcallbyvalue.c)<br/>
 [swappingcallbyreference.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/swappingcallbyreference.c)<br/>
 [perfectnotperfect.c](https://github.com/nandhini532/CSEN1011/blob/b9a1abd305ab03c6af81abaa437d6b8c9b4bda09/perfectnotperfect.c)<br/>
-[series-sum.c]()<br/>
-[prime-amstrong-perfect-functions.c]()<br/>
-[gcd-lcm-recursive.c]()<br/>
-[storage-classes.c]()<br/>
-[dynamic-memory-allocation.c]()<br/>
+[divisible.c](https://github.com/nandhini532/CSEN1011/blob/75805cab6c0d4e81cc137fdab95f5ef4ead33985/divisible.c)<br/>
+[minimum.c](https://github.com/nandhini532/CSEN1011/blob/75805cab6c0d4e81cc137fdab95f5ef4ead33985/minimum.c)<br/>
+[triangle.c](https://github.com/nandhini532/CSEN1011/blob/75805cab6c0d4e81cc137fdab95f5ef4ead33985/triangle.c)<br/>
 
 
 # RECURSION
@@ -53,21 +51,11 @@
 
 
 # CSEN1011 MODULE 4 PROGRAMS
-[linear-search.c]()<br/>
-[min-max-element.c]()<br/>
-[bubble-sort.c]()<br/>
-[binary-search.c]()<br/>
-[multi-dimensional-arrays.c]()<br/>
-[matrix-multiplication.c]()<br/>
-[dynamic-memory-allocation.c]()<br/>
-[transpose_matrix.c]()<br/>
-[arrays-pointers.c]()<br/>
-[array-passing-function.c]()<br/>
-[vowels-consonants-count.c]()<br/>
-[reverse-string.c]()<br/>
-[string-sort.c]()<br/>
-[unformatted-io-functions.c]()<br/>
-[string-handling.c]()<br/>
+[array.c](https://github.com/nandhini532/CSEN1011/blob/0b099bca653a21a5ecfb7b0302ec95931a70551a/array.c)<br/>
+[min-max-element.c](https://github.com/nandhini532/CSEN1011/blob/0b099bca653a21a5ecfb7b0302ec95931a70551a/maximinelement.c)<br/>
+[reverse-string.c](https://github.com/nandhini532/CSEN1011/blob/2e4767f5b082238497c6193bb93faa248df9702d/reverse-string.c)<br
+[array-passing-function.c](https://github.com/nandhini532/CSEN1011/blob/b6f2cd5726271edcc515e8bfc2988f07ea931c12/array-passing-function.c)<br/>
+[string.c](https://github.com/nandhini532/CSEN1011/blob/ab781fbb60e00a956fca2d17f6f60c39c2c651b3/string.c)<br/>
 
 
 # CSEN1011 MODULE 5 PROGRAMS
