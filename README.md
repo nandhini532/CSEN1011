@@ -104,7 +104,7 @@
 # FINAL SEMISTER
 [raptor for chess](https://github.com/nandhini532/CSEN1011/blob/1b60a46e873d220aa88164d3b644a08693bb0496/raptor%20for%20chess%20board.rap)<br/>
 [algorithm for chess board](https://github.com/nandhini532/CSEN1011/blob/503b8a6a73f2239cc1357887b8f117d1abbf6fc1/chess%20board%20for%20algorithm)<br/>
-[permutation-algorithm])(https://github.com/nandhini532/CSEN1011/blob/0b12b275ea0737f9b14eb9f6db70e0e74fee22ef/permutation-algorithm)<br/>
+[permutation-algorithm](https://github.com/nandhini532/CSEN1011/blob/0b12b275ea0737f9b14eb9f6db70e0e74fee22ef/permutation-algorithm)<br/>
 [permutation.rap](https://github.com/nandhini532/CSEN1011/blob/0b12b275ea0737f9b14eb9f6db70e0e74fee22ef/permutation.rap)<br/>
 [customer.c](https://github.com/nandhini532/CSEN1011/blob/0b12b275ea0737f9b14eb9f6db70e0e74fee22ef/customer.c)<br/>
 [customer-purchase.rap](https://github.com/nandhini532/CSEN1011/blob/0b12b275ea0737f9b14eb9f6db70e0e74fee22ef/customer-purchase.rap)<br/>
