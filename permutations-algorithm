@@ -1,0 +1,9 @@
+Step-1:Start
+Step-2:Enter the number of girls,g
+Step-3:Enter the number of boys,b
+Step-4:Total number of friends are t=g+b
+Step-5:for(i=1;i<=b;i++) bs=bs*i
+Step-6:for(i=1;i<=g;i++) gs=gs*i
+Step-7:for(i=1;i<=t;i++) ts=ts*i
+Step-8:Total number of ways,s=((gs*bs)/ts)
+Step-9:Stop
